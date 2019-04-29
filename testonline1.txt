@@ -5,4 +5,4 @@ i touched this locally
 
 touched online
 did fetch then merge
-touched again for git pull origin master which does fetch and merge
+touched again for git pull origin master which does fetch and merge  (git pull origin master)
